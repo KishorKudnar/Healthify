@@ -1,5 +1,11 @@
 # Healthify - Smart Health Care System
 
+![Angular](https://img.shields.io/badge/Frontend-Angular%2019-dd0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Made With](https://img.shields.io/badge/Built%20With-❤️-red?style=for-the-badge)
+
+
 This project is a Full Stack Web Application built with:
 - **Frontend:** Angular 19
 - **Backend:** Spring Boot (Java) using Eclipse
